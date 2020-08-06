@@ -23,3 +23,7 @@ button.login{
   font-size: 2em;
   padding: 0.5em;
 }
+
+.avatar {
+  display: block;
+}
