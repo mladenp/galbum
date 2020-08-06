@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  text-align: center;
+}
+.container > h1 {
+  font-size: 4em;
+}
+button.login{
+  margin-top: 2em;
+  font-size: 2em;
+  padding: 0.5em;
+}
